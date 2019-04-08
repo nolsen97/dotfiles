@@ -1,0 +1,392 @@
+Jan 01 18:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 18:25 : exception: Failed to open '/home/nate/.config/mpd/state': No such file or directory
+Jan 01 18:25 : exception: Failed to access /home/nate/Music: No such file or directory
+Jan 01 18:25 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 01 18:25 : client: [0] opened from 127.0.0.1:45984
+Jan 01 18:25 : client: [1] opened from 127.0.0.1:45988
+Jan 01 18:25 : client: [0] closed
+Jan 01 18:25 : client: [1] closed
+Jan 01 18:25 : client: [2] opened from 127.0.0.1:45994
+Jan 01 18:25 : client: [3] opened from 127.0.0.1:45996
+Jan 01 18:25 : client: [3] closed
+Jan 01 18:25 : client: [4] opened from 127.0.0.1:46004
+Jan 01 18:25 : client: [4] closed
+Jan 02 13:54 : client: [5] opened from 127.0.0.1:46734
+Jan 02 13:54 : client: [5] closed
+Jan 02 14:05 : client: [6] opened from 127.0.0.1:46830
+Jan 02 14:05 : client: [6] closed
+Jan 02 14:11 : client: [7] opened from 127.0.0.1:46856
+Jan 02 14:11 : client: [7] closed
+Jan 02 14:13 : client: [8] opened from 127.0.0.1:46864
+Jan 02 14:13 : client: [8] closed
+Jan 02 14:13 : client: [9] opened from 127.0.0.1:46868
+Jan 02 14:13 : client: [9] closed
+Jan 02 14:14 : client: [10] opened from 127.0.0.1:46872
+Jan 02 14:14 : client: [10] closed
+Jan 02 14:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 14:17 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 02 14:17 : client: [0] opened from 127.0.0.1:41688
+Jan 02 14:18 : client: [1] opened from 127.0.0.1:41692
+Jan 02 14:18 : client: [1] closed
+Jan 02 17:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 17:01 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 02 17:09 : client: [0] opened from 127.0.0.1:37106
+Jan 02 17:09 : client: [1] opened from 127.0.0.1:37110
+Jan 02 17:09 : client: [1] closed
+Jan 02 17:11 : client: [2] opened from 127.0.0.1:37170
+Jan 02 17:11 : client: [2] closed
+Jan 02 17:19 : client: [3] opened from 127.0.0.1:37286
+Jan 02 17:19 : client: [3] closed
+Jan 02 17:21 : client: [4] opened from 127.0.0.1:37296
+Jan 02 17:21 : client: [4] closed
+Jan 03 11:37 : client: [5] opened from 127.0.0.1:37312
+Jan 03 11:37 : client: [5] closed
+Jan 03 11:45 : client: [6] opened from 127.0.0.1:37438
+Jan 03 11:45 : exception: Not playing
+Jan 03 11:45 : client: [6] closed
+Jan 03 11:45 : client: [7] opened from 127.0.0.1:37442
+Jan 03 11:45 : exception: Not playing
+Jan 03 11:45 : client: [7] closed
+Jan 03 11:45 : client: [8] opened from 127.0.0.1:37446
+Jan 03 11:45 : exception: Not playing
+Jan 03 11:45 : client: [8] closed
+Jan 03 12:14 : client: [9] opened from 127.0.0.1:38138
+Jan 03 12:14 : client: [9] closed
+Jan 03 12:15 : client: [10] opened from 127.0.0.1:38194
+Jan 03 12:15 : client: [10] closed
+Jan 03 12:16 : client: [11] opened from 127.0.0.1:38238
+Jan 03 12:16 : client: [11] closed
+Jan 03 12:23 : client: [12] opened from 127.0.0.1:38512
+Jan 03 12:23 : client: [12] closed
+Jan 10 23:04 : client: [13] opened from 127.0.0.1:34456
+Jan 10 23:04 : client: [13] closed
+Jan 16 15:33 : client: [14] opened from 127.0.0.1:33556
+Jan 16 15:33 : client: [14] closed
+Jan 16 15:34 : client: [15] opened from 127.0.0.1:33560
+Jan 16 15:34 : client: [15] closed
+Jan 16 19:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 11:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 11:14 : client: [0] opened from 127.0.0.1:54590
+Jan 21 21:28 : client: [1] opened from 127.0.0.1:56690
+Jan 21 21:28 : client: [1] closed
+Jan 21 21:28 : client: [2] opened from 127.0.0.1:56694
+Jan 21 21:28 : client: [2] closed
+Jan 21 21:29 : client: [3] opened from 127.0.0.1:56698
+Jan 21 21:29 : client: [3] closed
+Jan 21 21:29 : client: [4] opened from 127.0.0.1:56706
+Jan 21 21:29 : client: [4] closed
+Jan 21 21:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 21:31 : client: [0] opened from 127.0.0.1:41376
+Jan 22 01:34 : client: [1] opened from 127.0.0.1:45784
+Jan 22 01:34 : client: [1] closed
+Jan 22 10:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 10:37 : client: [0] opened from 127.0.0.1:38458
+Jan 24 09:37 : client: [1] opened from 127.0.0.1:33868
+Jan 24 09:37 : client: [1] closed
+Jan 24 09:37 : client: [2] opened from 127.0.0.1:33872
+Jan 24 09:37 : client: [2] closed
+Jan 24 09:37 : client: [3] opened from 127.0.0.1:33876
+Jan 24 09:37 : client: [3] closed
+Jan 24 09:37 : client: [4] opened from 127.0.0.1:33880
+Jan 24 09:37 : client: [4] closed
+Jan 24 09:37 : client: [5] opened from 127.0.0.1:33884
+Jan 24 09:37 : client: [5] closed
+Jan 24 09:37 : client: [6] opened from 127.0.0.1:33888
+Jan 24 09:37 : client: [6] closed
+Jan 24 09:37 : client: [7] opened from 127.0.0.1:33892
+Jan 24 09:37 : client: [7] closed
+Jan 24 09:37 : client: [8] opened from 127.0.0.1:33896
+Jan 24 09:37 : client: [8] closed
+Jan 24 09:37 : client: [9] opened from 127.0.0.1:33900
+Jan 24 09:37 : client: [9] closed
+Jan 24 09:37 : client: [10] opened from 127.0.0.1:33904
+Jan 24 09:37 : client: [10] closed
+Jan 24 09:37 : client: [11] opened from 127.0.0.1:33908
+Jan 24 09:37 : client: [11] closed
+Jan 24 09:37 : client: [12] opened from 127.0.0.1:33916
+Jan 24 09:37 : exception: Not playing
+Jan 24 09:37 : client: [12] closed
+Jan 28 13:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 28 13:26 : client: [0] opened from 127.0.0.1:33452
+Jan 30 17:09 : client: [1] opened from 127.0.0.1:46600
+Jan 30 17:09 : client: [1] closed
+Jan 30 17:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 13:52 : client: [0] opened from 127.0.0.1:59698
+Feb 02 16:46 : client: [0] closed
+Feb 02 16:46 : client: [1] opened from 127.0.0.1:46462
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/05 Birdie.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/09 Smoochie.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/06 Leaving LA.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/12 So I'm Growing Old on Magic Mountain.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/08 When the God of Love Returns There'll Be Hell to Pay.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/10 Two Wildly Different Perspectives.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/13 In Twenty Years or So.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/11 The Memo.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/03 Things It Would Have Been Helpful to Know Before the Revolution.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/07 A Bigger Paper Bag.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/01 Pure Comedy.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/04 Ballad of the Dying Man.flac
+Feb 02 16:46 : update: added Father John Misty - Pure Comedy (2017) [FLAC]/02 Total Entertainment Forever.flac
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/09. FEEFA (feat. Kanye West).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/10. KANGA (feat. Gunna).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/06. WAKA (feat. A Boogie Wit Da Hoodie).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/01. STOOPID (feat. Bobby Shmurda).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/11. TATI (feat. DJ SpinKing).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/08. MALA (feat. Anuel AA).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/07. BEBE (feat. Anuel AA).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/04. KIKA (feat. Tory Lanez).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/13. DUMMY (feat. Trife Drew).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/12. WONDO.mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/03. TIC TOC (feat. Lil Baby).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/02. FEFE (feat. Nicki Minaj and Murda Beatz).mp3
+Feb 02 16:46 : update: added 6ix9ine - Dummy Boy (2018) [320]/05. MAMA (feat. Nicki Minaj and Kanye West).mp3
+Feb 02 16:46 : client: [1] closed
+Feb 02 16:46 : client: [2] opened from 127.0.0.1:46466
+Feb 02 16:46 : client: [2] closed
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/07. No Grass Today.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/09. Call My Dad.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/11. Netflix Trip.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/03. Weak.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/12. Bud Like You.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/10. I'm Not Famous.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/04. Sober Up (feat. Rivers Cuomo).mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/06. Turning Out.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/02. The Good Part.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/01. Overture.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/13. Come Hang Out.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/05. Drama.mp3
+Feb 02 16:46 : update: added AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/08. Three-Thirty.mp3
+Feb 02 16:46 : client: [3] opened from 127.0.0.1:46574
+Feb 02 16:46 : client: [3] closed
+Feb 02 16:46 : client: [4] opened from 127.0.0.1:46642
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/03. Desire.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/01. Night of the Long Knives.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/04. Big Game.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/11. White Whale.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/08. A Fever Dream.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/09. Ivory Tower.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/02. Can't Do.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/07. Put Me Together.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/06. Run the Numbers.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/05. Good Shot, Good Soldier.flac
+Feb 02 16:46 : update: added Everything Everything - A Fever Dream (2017) [FLAC]/10. New Deep.flac
+Feb 02 16:46 : client: [4] closed
+Feb 02 16:46 : client: [5] opened from 127.0.0.1:46650
+Feb 02 16:46 : client: [5] closed
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/03. Good As Gold.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/01. Let The Record Play.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/08. Keep Me Coming.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/10. The Way.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/04. Two High.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/02. Not Too Late.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/05. No More Worry.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/06. Moving To The City.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/07. Nothing Can Keep Us Apart.mp3
+Feb 02 16:46 : update: added Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/09. Trouble.mp3
+Feb 02 16:46 : client: [6] opened from 127.0.0.1:46722
+Feb 04 14:41 : client: [7] opened from 127.0.0.1:51098
+Feb 04 14:41 : client: [7] closed
+Feb 06 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 21:22 : client: [0] opened from 127.0.0.1:53644
+Feb 10 15:02 : client: [1] opened from 127.0.0.1:47382
+Feb 10 15:02 : exception: Not playing
+Feb 10 15:02 : client: [1] closed
+Feb 10 15:02 : client: [2] opened from 127.0.0.1:47386
+Feb 10 15:02 : exception: Not playing
+Feb 10 15:02 : client: [2] closed
+Feb 11 19:54 : client: [3] opened from 127.0.0.1:60722
+Feb 11 19:54 : client: [3] closed
+Feb 11 20:47 : client: [0] closed
+Feb 11 20:47 : client: [4] opened from 127.0.0.1:34838
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/07 Beggars.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/11 Favourite Day.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/04 Lights Out, Words Gone.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/06 Shuffle.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/13 Beg.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/02 Bad Timing.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/12 Still.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/09 Fracture.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/05 Take the Right One.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/03 Your Eyes.mp3
+Feb 11 20:47 : update: added Bombay Bicycle Club - A Different Kind of Fix/08 Leave It.mp3
+Feb 11 20:47 : client: [4] closed
+Feb 11 20:47 : client: [5] opened from 127.0.0.1:34842
+Feb 11 20:47 : client: [6] opened from 127.0.0.1:34898
+Feb 11 20:48 : client: [5] closed
+Feb 11 20:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 20:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 20:48 : client: [7] opened from 127.0.0.1:34910
+Feb 11 20:51 : player: played "Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3"
+Feb 11 20:51 : client: [7] closed
+Feb 11 20:51 : client: [8] opened from 127.0.0.1:34990
+Feb 11 20:52 : client: [8] closed
+Feb 11 20:52 : client: [9] opened from 127.0.0.1:34994
+Feb 11 20:52 : client: [10] opened from 127.0.0.1:35004
+Feb 11 20:52 : client: [9] closed
+Feb 11 20:52 : client: [10] closed
+Feb 11 20:52 : client: [11] opened from 127.0.0.1:35008
+Feb 11 20:52 : client: [11] closed
+Feb 11 20:52 : client: [12] opened from 127.0.0.1:35016
+Feb 11 20:54 : client: [12] closed
+Feb 11 20:54 : client: [13] opened from 127.0.0.1:35048
+Feb 11 23:40 : client: [6] closed
+Feb 13 00:50 : client: [14] opened from 127.0.0.1:45754
+Feb 13 00:50 : client: [13] closed
+Feb 13 00:50 : client: [14] closed
+Feb 13 00:50 : client: [15] opened from 127.0.0.1:45758
+Feb 13 00:50 : client: [16] opened from 127.0.0.1:45766
+Feb 13 00:50 : client: [15] closed
+Feb 13 00:50 : client: [16] closed
+Feb 13 00:50 : client: [17] opened from 127.0.0.1:45770
+Feb 13 00:50 : client: [18] opened from 127.0.0.1:45774
+Feb 13 00:50 : client: [17] closed
+Feb 13 00:50 : client: [18] closed
+Feb 13 00:50 : client: [19] opened from 127.0.0.1:45778
+Feb 13 00:50 : client: [20] opened from 127.0.0.1:45782
+Feb 13 00:50 : client: [19] closed
+Feb 13 00:50 : client: [20] closed
+Feb 13 00:50 : client: [21] opened from 127.0.0.1:45786
+Feb 13 00:50 : client: [22] opened from 127.0.0.1:45802
+Feb 13 00:50 : client: [22] closed
+Feb 13 00:50 : client: [23] opened from 127.0.0.1:45814
+Feb 13 00:50 : client: [23] closed
+Feb 13 00:51 : client: [24] opened from 127.0.0.1:45818
+Feb 13 00:51 : client: [21] closed
+Feb 13 00:51 : client: [24] closed
+Feb 13 00:51 : client: [25] opened from 127.0.0.1:45822
+Feb 13 00:51 : client: [26] opened from 127.0.0.1:45826
+Feb 13 00:51 : client: [25] closed
+Feb 13 00:51 : client: [26] closed
+Feb 13 00:51 : client: [27] opened from 127.0.0.1:45830
+Feb 16 17:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 17:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 17:17 : client: [0] opened from 127.0.0.1:51994
+Feb 17 16:42 : client: [1] opened from 127.0.0.1:56850
+Feb 17 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 16:42 : client: [0] closed
+Feb 17 16:45 : player: played "Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3"
+Feb 17 16:46 : client: [1] closed
+Feb 17 16:49 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/01. Let The Record Play.mp3"
+Feb 17 16:49 : client: [2] opened from 127.0.0.1:57118
+Feb 17 16:49 : client: [2] closed
+Feb 17 16:52 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/02. Not Too Late.mp3"
+Feb 17 16:55 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/03. Good As Gold.mp3"
+Feb 17 16:59 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/04. Two High.mp3"
+Feb 17 17:03 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/05. No More Worry.mp3"
+Feb 17 17:07 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/06. Moving To The City.mp3"
+Feb 17 17:10 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/07. Nothing Can Keep Us Apart.mp3"
+Feb 17 17:13 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/08. Keep Me Coming.mp3"
+Feb 17 17:17 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/09. Trouble.mp3"
+Feb 17 17:18 : client: [3] opened from 127.0.0.1:57702
+Feb 17 17:18 : client: [3] closed
+Feb 17 17:21 : player: played "Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/10. The Way.mp3"
+Feb 17 17:22 : client: [4] opened from 127.0.0.1:57758
+Feb 17 17:22 : client: [4] closed
+Feb 17 17:26 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/01. Overture.mp3"
+Feb 17 17:26 : client: [5] opened from 127.0.0.1:57810
+Feb 17 17:26 : client: [5] closed
+Feb 17 17:30 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/02. The Good Part.mp3"
+Feb 17 17:33 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/03. Weak.mp3"
+Feb 17 17:37 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/04. Sober Up (feat. Rivers Cuomo).mp3"
+Feb 17 17:40 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/05. Drama.mp3"
+Feb 17 17:41 : client: [6] opened from 127.0.0.1:57998
+Feb 17 17:50 : client: [6] closed
+Feb 17 17:53 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/06. Turning Out.mp3"
+Feb 17 17:57 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/07. No Grass Today.mp3"
+Feb 17 18:01 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/08. Three-Thirty.mp3"
+Feb 17 18:03 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/09. Call My Dad.mp3"
+Feb 17 18:07 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/10. I'm Not Famous.mp3"
+Feb 17 18:07 : client: [7] opened from 127.0.0.1:58540
+Feb 17 18:07 : client: [7] closed
+Feb 17 18:10 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/11. Netflix Trip.mp3"
+Feb 17 18:14 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/12. Bud Like You.mp3"
+Feb 17 18:17 : client: [8] opened from 127.0.0.1:58692
+Feb 17 18:18 : client: [8] closed
+Feb 17 18:19 : player: played "AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/13. Come Hang Out.mp3"
+Feb 17 18:19 : client: [9] opened from 127.0.0.1:58720
+Feb 17 18:23 : player: played "Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3"
+Feb 17 18:26 : player: played "Bombay Bicycle Club - A Different Kind of Fix/02 Bad Timing.mp3"
+Feb 17 18:32 : player: played "Bombay Bicycle Club - A Different Kind of Fix/03 Your Eyes.mp3"
+Feb 17 18:37 : player: played "Bombay Bicycle Club - A Different Kind of Fix/04 Lights Out, Words Gone.mp3"
+Feb 17 18:40 : player: played "Bombay Bicycle Club - A Different Kind of Fix/05 Take the Right One.mp3"
+Feb 17 18:44 : player: played "Bombay Bicycle Club - A Different Kind of Fix/06 Shuffle.mp3"
+Feb 17 18:48 : player: played "Bombay Bicycle Club - A Different Kind of Fix/07 Beggars.mp3"
+Feb 17 18:52 : player: played "Bombay Bicycle Club - A Different Kind of Fix/08 Leave It.mp3"
+Feb 17 18:56 : player: played "Bombay Bicycle Club - A Different Kind of Fix/09 Fracture.mp3"
+Feb 17 18:58 : client: [9] closed
+Feb 18 18:49 : client: [10] opened from 127.0.0.1:35128
+Feb 18 18:49 : client: [10] closed
+Feb 18 18:49 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Feb 18 18:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 18:50 : client: [0] opened from 127.0.0.1:36952
+Feb 18 21:46 : client: [1] opened from 127.0.0.1:41106
+Feb 18 21:46 : client: [1] closed
+Feb 24 14:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 14:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 14:23 : client: [0] opened from 127.0.0.1:32808
+Feb 24 20:04 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Feb 24 20:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:04 : client: [0] opened from 127.0.0.1:38384
+Feb 25 13:11 : client: [1] opened from 127.0.0.1:47544
+Feb 25 13:11 : client: [1] closed
+Feb 25 13:17 : client: [2] opened from 127.0.0.1:47634
+Feb 25 13:17 : client: [2] closed
+Feb 25 17:33 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Feb 25 17:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:34 : client: [0] opened from 127.0.0.1:34222
+Feb 26 00:38 : client: [1] opened from 127.0.0.1:43442
+Feb 26 00:38 : client: [1] closed
+Feb 27 13:26 : client: [2] opened from 127.0.0.1:57494
+Feb 27 13:26 : client: [2] closed
+Feb 28 17:28 : client: [3] opened from 127.0.0.1:36368
+Feb 28 17:28 : client: [3] closed
+Feb 28 19:34 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Feb 28 19:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 18:35 : client: [0] opened from 127.0.0.1:38928
+Mar 05 17:17 : client: [1] opened from 127.0.0.1:36196
+Mar 05 17:17 : client: [1] closed
+Mar 05 17:22 : client: [2] opened from 127.0.0.1:36262
+Mar 05 17:22 : client: [2] closed
+Mar 05 17:42 : client: [3] opened from 127.0.0.1:36744
+Mar 05 17:42 : client: [3] closed
+Mar 06 14:00 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Mar 06 14:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 14:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 11:10 : client: [0] opened from 127.0.0.1:41094
+Mar 16 19:14 : client: [1] opened from 127.0.0.1:52534
+Mar 16 19:14 : client: [1] closed
+Mar 23 23:39 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Mar 23 23:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 23:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:25 : client: [0] opened from 127.0.0.1:57352
+Mar 26 11:47 : client: [1] opened from 127.0.0.1:35242
+Mar 26 11:47 : client: [1] closed
+Mar 27 14:21 : player: played "Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3"
+Mar 27 14:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 27 14:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 22:34 : client: [0] opened from 127.0.0.1:33532
+Apr 01 00:02 : client: [1] opened from 127.0.0.1:35900
+Apr 01 00:02 : client: [1] closed
+Apr 01 00:03 : client: [2] opened from 127.0.0.1:35914
+Apr 01 00:03 : client: [2] closed
+Apr 01 20:27 : client: [3] opened from 127.0.0.1:46224
+Apr 01 20:27 : client: [3] closed
+Apr 01 20:29 : client: [4] opened from 127.0.0.1:46282
+Apr 01 20:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 20:29 : client: [0] closed
+Apr 01 20:29 : client: [4] closed
+Apr 01 20:29 : client: [5] opened from 127.0.0.1:46286
+Apr 01 20:29 : client: [5] closed
+Apr 03 12:31 : client: [6] opened from 127.0.0.1:55916
+Apr 03 12:31 : client: [6] closed
+Apr 04 13:56 : client: [7] opened from 127.0.0.1:40552
+Apr 08 01:47 : client: [8] opened from 127.0.0.1:56982
+Apr 08 01:47 : client: [8] closed
+Apr 08 01:48 : client: [9] opened from 127.0.0.1:56992
+Apr 08 01:48 : client: [9] closed

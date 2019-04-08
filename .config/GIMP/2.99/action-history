@@ -1,0 +1,23 @@
+# GIMP action-history
+
+(history-item "file-save" 3)
+(history-item "edit-clear" 2)
+(history-item "select-none" 0)
+(history-item "file-export-as" 1)
+(history-item "filters-color-balance" 1)
+(history-item "edit-paste" 0)
+(history-item "filters-hue-saturation" 0)
+(history-item "file-quit" 1)
+(history-item "filters-channel-mixer" 0)
+(history-item "filters-hue-chroma" 1)
+(history-item "filters-levels" 0)
+(history-item "tools-bucket-fill" 0)
+(history-item "filters-color-temperature" 0)
+(history-item "select-all" 0)
+(history-item "image-crop-to-selection" 0)
+(history-item "tools-unified-transform" 0)
+(history-item "layers-merge-down" 0)
+(history-item "layers-delete" 0)
+(history-item "file-export" 1)
+
+# end of action-history

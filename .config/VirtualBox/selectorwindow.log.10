@@ -1,0 +1,17 @@
+00:00:00.423361 VirtualBox GUI VM Selector Window 6.0.4 r128164 linux.amd64 (Jan 28 2019 15:36:33) release log
+00:00:00.423363 Log opened 2019-02-27T16:45:03.763349000Z
+00:00:00.423364 Build Type: release
+00:00:00.423366 OS Product: Linux
+00:00:00.423368 OS Release: 4.20.12-arch1-1-ARCH
+00:00:00.423369 OS Version: #1 SMP PREEMPT Sat Feb 23 15:11:34 UTC 2019
+00:00:00.423394 DMI Product Name: 20BWS3G400
+00:00:00.423402 DMI Product Version: ThinkPad T450s
+00:00:00.423441 Host RAM: 7676MB (7.4GB) total, 7297MB (7.1GB) available
+00:00:00.423444 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.423444 Process ID: 10888
+00:00:00.423445 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.423509 Qt version: 5.12.1
+00:00:00.454859 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.778192 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 29x51 x 920x996
+00:00:00.878907 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.879011 GUI: UIMediumEnumerator: Medium-enumeration finished!

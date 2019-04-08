@@ -1,0 +1,65 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 46
+time: 70.450000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3
+1:Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3
+2:Bombay Bicycle Club - A Different Kind of Fix/02 Bad Timing.mp3
+3:Bombay Bicycle Club - A Different Kind of Fix/03 Your Eyes.mp3
+4:Bombay Bicycle Club - A Different Kind of Fix/04 Lights Out, Words Gone.mp3
+5:Bombay Bicycle Club - A Different Kind of Fix/05 Take the Right One.mp3
+6:Bombay Bicycle Club - A Different Kind of Fix/06 Shuffle.mp3
+7:Bombay Bicycle Club - A Different Kind of Fix/07 Beggars.mp3
+8:Bombay Bicycle Club - A Different Kind of Fix/08 Leave It.mp3
+9:Bombay Bicycle Club - A Different Kind of Fix/09 Fracture.mp3
+10:Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3
+11:Bombay Bicycle Club - A Different Kind of Fix/11 Favourite Day.mp3
+12:Bombay Bicycle Club - A Different Kind of Fix/12 Still.mp3
+13:Bombay Bicycle Club - A Different Kind of Fix/13 Beg.mp3
+14:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/01. Let The Record Play.mp3
+15:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/02. Not Too Late.mp3
+16:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/03. Good As Gold.mp3
+17:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/04. Two High.mp3
+18:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/05. No More Worry.mp3
+19:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/06. Moving To The City.mp3
+20:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/07. Nothing Can Keep Us Apart.mp3
+21:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/08. Keep Me Coming.mp3
+22:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/09. Trouble.mp3
+23:Moon Taxi - Let The Record Play (2018) Mp3 (320kbps) [Hunter]/Moon Taxi - Let The Record Play (2018) [320]/10. The Way.mp3
+24:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/01. Overture.mp3
+25:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/02. The Good Part.mp3
+26:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/03. Weak.mp3
+27:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/04. Sober Up (feat. Rivers Cuomo).mp3
+28:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/05. Drama.mp3
+29:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/06. Turning Out.mp3
+30:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/07. No Grass Today.mp3
+31:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/08. Three-Thirty.mp3
+32:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/09. Call My Dad.mp3
+33:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/10. I'm Not Famous.mp3
+34:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/11. Netflix Trip.mp3
+35:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/12. Bud Like You.mp3
+36:AJR - The Click (2017) Mp3.320kbps.[Hunter]/AJR - The Click (2017) [320]/13. Come Hang Out.mp3
+37:Bombay Bicycle Club - A Different Kind of Fix/01 How Can You Swallow So Much Sleep.mp3
+38:Bombay Bicycle Club - A Different Kind of Fix/02 Bad Timing.mp3
+39:Bombay Bicycle Club - A Different Kind of Fix/03 Your Eyes.mp3
+40:Bombay Bicycle Club - A Different Kind of Fix/04 Lights Out, Words Gone.mp3
+41:Bombay Bicycle Club - A Different Kind of Fix/05 Take the Right One.mp3
+42:Bombay Bicycle Club - A Different Kind of Fix/06 Shuffle.mp3
+43:Bombay Bicycle Club - A Different Kind of Fix/07 Beggars.mp3
+44:Bombay Bicycle Club - A Different Kind of Fix/08 Leave It.mp3
+45:Bombay Bicycle Club - A Different Kind of Fix/09 Fracture.mp3
+46:Bombay Bicycle Club - A Different Kind of Fix/10 What You Want.mp3
+47:Bombay Bicycle Club - A Different Kind of Fix/11 Favourite Day.mp3
+48:Bombay Bicycle Club - A Different Kind of Fix/12 Still.mp3
+49:Bombay Bicycle Club - A Different Kind of Fix/13 Beg.mp3
+playlist_end

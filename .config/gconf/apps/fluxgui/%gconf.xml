@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="colortemp" mtime="1550037395" type="string">
+		<stringvalue>3400</stringvalue>
+	</entry>
+	<entry name="autostart" mtime="1550037395" type="bool" value="true"/>
+</gconf>

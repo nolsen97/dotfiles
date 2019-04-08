@@ -1,0 +1,12 @@
+# GIMP gimp-heal-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(palette "Color History")
+(brush-size 4.000000)
+(brush-aspect-ratio -0.300000)
+(brush-spacing 0.098000)
+(brush-hardness 0.500000)
+(brush-force 0.499000)
+
+# end of gimp-heal-tool options

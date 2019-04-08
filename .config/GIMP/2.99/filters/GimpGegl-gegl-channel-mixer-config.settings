@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gegl-channel-mixer-config "2019-03-27 22:00:14"
+    (time 1553738414)
+    (preserve-luminosity no)
+    (rr-gain 1.000000)
+    (rg-gain 0.000000)
+    (rb-gain 0.000000)
+    (gr-gain 0.000000)
+    (gg-gain 1.000000)
+    (gb-gain 0.000000)
+    (br-gain 0.000000)
+    (bg-gain 0.000000)
+    (bb-gain 1.000000))
+
+# end of settings
